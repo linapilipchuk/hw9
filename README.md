@@ -6,4 +6,6 @@
 
 ![alt-текст](https://raw.githubusercontent.com/linapilipchuk/result.txt/master/кньзья%202.png)
 
-![alt-текст]
+Пункт 3 
+
+![alt-текст](https://raw.githubusercontent.com/linapilipchuk/result.txt/master/Новгород%201.png)
