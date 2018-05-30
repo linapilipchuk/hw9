@@ -1,4 +1,4 @@
-Пункт 1
+1. Удалить все пустые строки. Использовав регулярное выражение ^\s+ и оставив графу replace with пустой у меня получилось удалить все пустые строки.
 
 ![alt-текст](https://raw.githubusercontent.com/linapilipchuk/result.txt/master/пункт%201.1.png)
 
