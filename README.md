@@ -16,7 +16,7 @@
 ![alt-текст](https://raw.githubusercontent.com/linapilipchuk/result.txt/master/Б%20Пункт%20%5B.png)
 
 Дальше я использовала выражение (\.\s\.\s\.\s) и в замене оставила ..., чтобы соблюсти условие "а после нее (точки) нет другой точки"
-![alt-текст])https://raw.githubusercontent.com/linapilipchuk/result.txt/master/Б%20Пункт%20....png)
+![alt-текст])(https://raw.githubusercontent.com/linapilipchuk/result.txt/master/Б%20Пункт%20....png)
 
 Вконце, я заменила все двойный пробелы на один пробел с помощью регулярного вырежения \s\s и в замене поставила один пробел. 
 ![alt-текст](https://raw.githubusercontent.com/linapilipchuk/result.txt/master/%20Б%20Пункт%20пробелы.png)
